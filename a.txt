@@ -3,3 +3,4 @@ arquivo no
 GitHub
 
 Criando a Funcionalidade X
+Adicionando funcionalidade B
